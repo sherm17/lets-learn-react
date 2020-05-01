@@ -1,0 +1,36 @@
+.image-container {
+  width: 100%;
+  height: 200px;
+}
+
+.text-container {
+  background: white;
+  height: 300px;
+  min-height: 150px;
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+}
+
+.footer-container {
+  background: rgb(194, 84, 194);
+  position: fix;
+  bottom: 0;
+  text-align: start;
+  padding-left: 20%;
+  font-size: 25px;
+  color: white;
+  cursor: pointer;
+}
+
+.footer-container a{
+  text-decoration: none;
+}
+
+.footer-container li {
+  display: inline-block;
+}
+
+
